@@ -1,0 +1,125 @@
+{
+  "children": [
+    {
+      "name": "Spirtuality",
+      "children": [
+        {
+          "name": "Aal-Imran",
+          "group": "A",
+          "value": 10,
+          "colname": "level3"
+        },
+        {
+          "name": "Al-Anaam",
+          "group": "A",
+          "value": 10,
+          "colname": "level3"
+        },
+        {
+          "name": " Al-Anfaal",
+          "group": "C",
+          "value": 20,
+          "colname": "level3"
+        },
+        {
+          "name": "Al-A’raf",
+          "group": "C",
+          "value": 30,
+          "colname": "level3"
+        },
+        {
+          "name": "An-Nisa",
+          "group": "C",
+          "value": 10,
+          "colname": "level3"
+        },
+        {
+          "name": "Ash-Shura",
+          "group": "C",
+          "value": 10,
+          "colname": "level3"
+        },
+        {
+          "name": "Az-Zumar",
+          "group": "C",
+          "value": 10,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Leadership",
+      "children": [
+        {
+          "name": "mister_e",
+          "group": "C",
+          "value": 14,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_f",
+          "group": "A",
+          "value": 11,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_g",
+          "group": "B",
+          "value": 15,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_h",
+          "group": "B",
+          "value": 16,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Devotion",
+      "children": [
+        {
+          "name": "mister_i",
+          "group": "B",
+          "value": 10,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_j",
+          "group": "A",
+          "value": 13,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_k",
+          "group": "A",
+          "value": 13,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_l",
+          "group": "D",
+          "value": 25,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_m",
+          "group": "D",
+          "value": 16,
+          "colname": "level3"
+        },
+        {
+          "name": "mister_n",
+          "group": "D",
+          "value": 28,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    }
+  ],
+  "name": "CEO"
+}
